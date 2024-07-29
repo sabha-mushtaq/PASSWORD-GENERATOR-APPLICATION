@@ -27,7 +27,7 @@ Ensure you have Node.js and npm installed. If not, you can download and install 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/password-generator.git
+    git clone https://github.com/sabha-mushtaq/PASSWORD-GENERATOR-APPLICATION/tree/main
     cd password-generator
     ```
 
