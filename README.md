@@ -18,7 +18,7 @@ A web-based password generator that allows users to create secure passwords base
 - **JavaScript**: Core logic for password generation, event handling, and local storage management.
 
 ## Getting Started
-
+ https://github.com/user-attachments/assets/c8530d13-63d3-47a5-9153-a28676b8e476
 ### Prerequisites
 
 Ensure you have Node.js and npm installed. If not, you can download and install them from [nodejs.org](https://nodejs.org/).
